@@ -1,2 +1,2 @@
-const truth =()=> love*life
+const truth =()=> love*love
 
