@@ -1,2 +1,2 @@
-const truth =()=> love*love
+const truth =()=> love*check
 
